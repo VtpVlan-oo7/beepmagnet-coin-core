@@ -1,0 +1,1 @@
+# beepmagnet-coin-core
